@@ -16,4 +16,4 @@ Start the Shortcut in the Start Menu to Google Drive. That does the trick. Add a
 
 And then some taskkills 2 minutes after and viola!
 
-![Task Display](Screenshot 2023-04-29 191020.png)
+![Task Display](TaskList.png)
